@@ -18,6 +18,7 @@ MusicWiki is an unofficial Last.fm app that contains information about different
     * Material Components for Android - Modular and customizable Material Design UI components for Android.
     
  ## Screenshot
-    
-    ![WhatsApp Image 2023-02-06 at 10 16 29 PM (1)](https://user-images.githubusercontent.com/91408347/217038729-fde56617-a46e-4e88-a448-76145ffcbf50.jpeg)
+ 
+ 
 
+![WhatsApp Image 2023-02-06 at 10 16 29 PM (1)](https://user-images.githubusercontent.com/91408347/217039192-f28fa9b6-4fc3-4f4d-93e5-4a87817ba228.jpeg)
