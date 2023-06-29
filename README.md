@@ -1,4 +1,4 @@
-# Wiki_Assignment
+# Musicify
 
 Android App that demonstrate a good experience of music library with artist and album details categorised on the basis of genre. This App uses apis  https://www.last.fm/api.
 MusicWiki is an unofficial Last.fm app that contains information about different music genres, the albums, artists and tracks listed under the genre.
